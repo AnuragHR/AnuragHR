@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Anurag%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Talent%20Acquisition%20%E2%80%A2%20Human%20Resources%20%E2%80%A2%20HR%20Automation&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Talent+Acquisition+%26+HR+Professional;5+Years+in+Manufacturing+%26+Healthcare;800%2B+Apprentices+Hired+Every+Year;Building+HR+Tools+that+Save+Time+%E2%9A%A1" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Talent+Acquisition+%26+HR+Professional;Hiring+from+Apprentices+to+Senior+Managers;5+Years+in+Manufacturing+%26+Healthcare;800%2B+Apprentices+Hired+Every+Year;Building+HR+Tools+that+Save+Time+%E2%9A%A1" alt="Typing intro"/>
 
 <br/>
 
@@ -18,7 +18,7 @@
 <table align="center">
 <tr>
 <td align="center" width="25%"><h2>5+</h2><sub><b>Years in HR</b><br/>Aug 2021 – Present</sub></td>
-<td align="center" width="25%"><h2>800+</h2><sub><b>Apprentices hired / year</b><br/>PAN-India</sub></td>
+<td align="center" width="25%"><h2>800+</h2><sub><b>Hires per year</b><br/>Apprentices to Managers</sub></td>
 <td align="center" width="25%"><h2>3</h2><sub><b>Industries</b><br/>Pharma · Healthcare · Steel</sub></td>
 <td align="center" width="25%"><h2>6+</h2><sub><b>HR tools built</b><br/>Dashboards · Apps · Automation</sub></td>
 </tr>
@@ -28,7 +28,7 @@
 
 ## 👤 About Me
 
-I'm a **Talent Acquisition & HR professional** who hires for technical, operational and managerial roles across **manufacturing and healthcare**. I've led **high-volume hiring of 800+ apprentices a year** across India, built referral programs, and moved hiring away from third-party agencies to cut costs.
+I'm a **Talent Acquisition & HR professional** who hires at **all levels — from apprentices and technicians to managers and senior roles** — across **manufacturing and healthcare**. I've also led **high-volume hiring of 800+ apprentices a year** across India, built referral programs, and moved hiring away from third-party agencies to cut costs.
 
 Beyond recruitment, I love making HR **faster, paperless and data-driven**. I design and build my own HR tools — dashboards, letter generators, attendance systems — using Google Sheets, Apps Script and AI.
 
