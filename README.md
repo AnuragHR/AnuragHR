@@ -8,6 +8,7 @@
 
 <a href="mailto:luckysinghthakur27@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anurag-singh-5051852b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://anuraghr.github.io"><img src="https://img.shields.io/badge/Portfolio-anuraghr.github.io-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge"/>
 
@@ -66,6 +67,7 @@ Beyond recruitment, I love making HR **faster, paperless and data-driven**. I de
 - 🧾 Onboarding, documentation and record maintenance across HR databases
 - ⏱️ Leave and attendance management and day-to-day HR operations
 - 🤝 Policy communication and coordination with departments
+- ⚖️ **Statutory compliance:** PF (registrations, UAN & KYC, monthly ECR and challans), ESIC filings and payments, Labour Welfare Fund (Haryana), statutory records and audits
 
 </td>
 </tr>
@@ -211,6 +213,7 @@ One-page tool replacing manual letter drafting across multiple plants.
 <img src="https://img.shields.io/badge/HR%20Analytics-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Payroll%2C%20Leave%20%26%20Attendance-203a43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HR%20Policy-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PF%20%7C%20ESIC%20%7C%20LWF%20Compliance-203a43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HR%20Automation-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Training%20%26%20Assessment-203a43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Stakeholder%20Management-2c5364?style=for-the-badge"/>
@@ -274,12 +277,13 @@ One-page tool replacing manual letter drafting across multiple plants.
 **📜 Certifications**
 - Course on Computer Concepts (**CCC**)
 - Advanced Diploma in Computer Applications (**ADCA**)
+- 🤖 **Claude Academy (Anthropic)**, Sep 2026: Claude 101 · Claude Code 101 · Claude Code in Action
 
 </td>
 </tr>
 </table>
 
-🗣️ **Languages:** Hindi (Fluent) · English (Fluent) &nbsp;&nbsp;|&nbsp;&nbsp; 🏐 **Beyond work:** Volleyball · Cricket · Travelling
+🗣️ **Languages:** Hindi (Fluent) · English (Fluent) · Kannada (Basic) &nbsp;&nbsp;|&nbsp;&nbsp; 🏐 **Beyond work:** Volleyball · Cricket · Travelling
 
 ---
 
