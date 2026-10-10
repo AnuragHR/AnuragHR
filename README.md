@@ -7,8 +7,6 @@
 <a href="https://anuraghr.github.io/#projects"><img src="https://img.shields.io/badge/View%20my%20work%20%E2%86%92-0f172a?style=for-the-badge"/></a>
 <a href="https://anuraghr.github.io"><img src="https://img.shields.io/badge/Portfolio-anuraghr.github.io-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-<br/><br/>
-
 <img src="assets/stats.svg" width="100%" alt="5+ years in HR · 800+ hires per year · 3 industries · 6+ HR tools built"/>
 
 </div>
