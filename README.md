@@ -52,6 +52,55 @@ I'm a Talent Acquisition professional who hires for technical, operational and m
 
 ---
 
+## 🚀 Projects & HR Tech Work
+
+> HR tools and automation I've designed and built myself (with AI assistance) to make HR faster, paperless and data-driven.
+
+### 🧭 People Console: Org Hierarchy & Workforce Analytics
+A live web app synced to Google Sheets that shows the full organisation structure as an interactive hierarchy.
+- Salary bands, payroll totals and **span-of-control** analysis by manager and department
+- Built-in **data-quality checks** that flag missing or inconsistent employee records
+- Single self-contained web page; the data connection is set up separately on each device, so no credentials are stored in the file
+- **Tech:** HTML/JavaScript · Google Sheets · Google Apps Script
+
+### 📈 Training Performance Dashboard
+An analytics dashboard tracking quiz and assessment scores for a **34-member sales/CRM team**.
+- KPIs, leaderboard, **watchlist** for low performers and a most-retakes tracker
+- Charts: team-status donut, score distribution and weakest-10 training topics
+- Click-through drill-down for every employee, with exam-wise answers, results and retakes
+- **Auto-refreshes** from Google Sheets via Apps Script, so new employees and new attempts appear automatically
+- **Tech:** HTML/JavaScript · Chart.js · Google Sheets · Apps Script
+
+### 📝 Bilingual Training Assessments (English + Hindi)
+Built training quizzes for sales and CRM teams from **35 training-video transcripts**.
+- Bilingual Google Form quizzes so every employee can take them in their preferred language
+- Includes a live **40-question certification exam** with automatic scoring and answer keys
+- Results feed straight into the Training Performance Dashboard
+
+### ✉️ HR Letter Desk: Automated HR Letters
+A one-page tool that generates standard HR letters on the company letterhead.
+- **Offer, Appointment (12-clause), Confirmation, Experience and Relieving** letters
+- Shared employee details across letters, gender-aware wording, print-ready layout and **Word download**
+- Used to issue letters across multiple plant locations, replacing manual drafting
+
+### 🔐 HR Self-Service Salary Portal
+An internal HR app with **PIN login** and **role-based access**.
+- Separate, secure views for employees, managers and HR admins
+
+### ⏱️ Attendance & Leave Management System *(in progress)*
+A Darwinbox-style attendance and leave app for a plant of **~150 employees**.
+- Auto-syncs punches from the **eSSL biometric** machine to Google Sheets
+- Applies the company's late-coming, half-day and short-leave rules automatically
+- Leave requests with **manager approvals**, plus a monthly **attendance muster for payroll**
+- **Tech:** Google Sheets · Apps Script · eSSL biometric integration
+
+### 📚 HR Policies, Communication & Induction
+- Wrote the **Attendance & Workplace Discipline policy** and notice-board circulars, such as the one on unplanned leave
+- Built the **new-joiner induction deck** (company introduction) for onboarding sessions
+- Manage the end-to-end employee lifecycle documentation across multiple sites
+
+---
+
 ## 🏆 Key Achievements
 
 - 🥇 **Received an award** for exemplary performance and outstanding contribution to the organization
@@ -63,7 +112,7 @@ I'm a Talent Acquisition professional who hires for technical, operational and m
 
 ## 🧩 Core Skills
 
-**Talent Acquisition** · **High-Volume / Apprentice Hiring** · **Campus Recruitment** · **Employee Onboarding** · **Workforce Planning** · **HR Operations** · **HR Analytics & Reporting** · **Payroll, Leave & Attendance** · **HR Policy Implementation** · **Stakeholder Management**
+**Talent Acquisition** · **High-Volume / Apprentice Hiring** · **Campus Recruitment** · **Employee Onboarding** · **Workforce Planning** · **HR Operations** · **HR Analytics & Reporting** · **Payroll, Leave & Attendance** · **HR Policy Implementation** · **HR Automation & Dashboards** · **Training & Assessment** · **Stakeholder Management**
 
 ### ⚖️ Industrial Relations
 - Labour law and statutory compliance
@@ -82,6 +131,8 @@ I'm a Talent Acquisition professional who hires for technical, operational and m
 | **HRMS** | Darwinbox |
 | **Attendance Management** | Swagat Software · Secure Eye · Insyspay |
 | **Government Portals** | NAPS · NATS (Apprenticeship) |
+| **HR Tech & Automation** | Google Sheets · Google Apps Script · Google Forms · HTML/JavaScript dashboards · Chart.js |
+| **Biometric Attendance** | eSSL |
 | **AI Tools** | Claude · ChatGPT · Google Gemini · Microsoft Copilot · Perplexity |
 | **Office** | MS Office: Advanced Excel, PowerPoint, Word |
 
